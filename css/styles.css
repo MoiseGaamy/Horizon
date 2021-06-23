@@ -1,0 +1,30 @@
+.mylink{
+    margin-top: 0.5rem;
+}
+.mycarousel{
+    margin: 2rem 0.5rem;  
+    height: 450px;
+}
+.mycontainer{
+    margin-top: 3rem;
+}
+.card {
+    max-width: 90%;
+}
+.myfooter{
+    margin: 3rem 1rem 0px 1rem;
+    background-color: rgb(13, 13, 117);
+    line-height: 0;
+    text-align: center;  
+    color: white;
+}
+.myheader{
+    color: rgb(175, 117, 10);
+    font-family:Georgia, 'Times New Roman', Times, serif; 
+    font-size: 20px;
+    margin-bottom: 1rem;
+}
+.firstp{
+    color: rgb(172, 182, 27);
+    margin-bottom: 2rem;
+}
